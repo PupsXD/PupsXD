@@ -15,7 +15,7 @@
 
 - :zap: In my free time, I solve problems on LeetCode and delving into game design.
 
-- 🥇 My most interesting project so far (Documentation on Russian): ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)] (https://drive.google.com/drive/folders/1-i6Qv8_J3TxCKkJMULsdDJGnsyENp9WY?usp=share_link)
+- 🥇 My most interesting project so far (Documentation on Russian): ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) (https://drive.google.com/drive/folders/1-i6Qv8_J3TxCKkJMULsdDJGnsyENp9WY?usp=share_link)]
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-sokolov-83a805252/)
 
